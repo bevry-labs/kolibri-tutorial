@@ -44,7 +44,15 @@ down 'https://storage.googleapis.com/le-releases/downloads/kolibri/v0.17.5/kolib
 
 I used Rasberry Pi Imager with `Use Custom` to select the `.zip` file directly.
 
-I used a custom hostname, username and password, and included my public SSH key, however it did not seem to use any of that:
+I used a custom hostname, username and password, and included my public SSH key:
+
+![02-custom-01.png](https://github.com/bevry-labs/kolibri-tutorial/blob/main/02-custom-01.png?raw=true)
+
+![02-custom-02.png](https://github.com/bevry-labs/kolibri-tutorial/blob/main/02-custom-02.png?raw=true)
+
+![02-custom-03.png](https://github.com/bevry-labs/kolibri-tutorial/blob/main/02-custom-03.png?raw=true)
+
+However it did not seem to use any of that:
 
 ![03-custom-user-and-hostname-and-ssh-public-key-not-applied.png](https://github.com/bevry-labs/kolibri-tutorial/blob/main/03-custom-user-and-hostname-and-ssh-public-key-not-applied.png?raw=true)
 
@@ -52,3 +60,4 @@ I used a custom hostname, username and password, and included my public SSH key,
 
 ### Second Attempt, No Customisations
 
+![05-no-custom.png](https://github.com/bevry-labs/kolibri-tutorial/blob/main/05-no-custom.png?raw=true)
